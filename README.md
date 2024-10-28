@@ -1,4 +1,4 @@
-# Project Title: Cryptocurrency Data Analysis with Messari and ElasticSearch
+# Cryptocurrency Data Analysis with Messari and ElasticSearch
 
 ## Overview
 The objective of this project is to develop a program that retrieves, categorizes, and analyzes cryptocurrency data from the Messari website. The data will be stored in ElasticSearch and visualized using Kibana to support informed trading decisions. The project covers the retrieval, sorting, analysis, and graphical representation of data on various cryptocurrencies, enabling a better understanding of market trends.
